@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+This is my first repository.
+I'm studying html now.
